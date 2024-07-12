@@ -1,0 +1,20 @@
+
+
+
+
+.table {
+    /* border: 1px solid red; */
+    color: white;
+}
+
+
+
+th {
+    padding: 15px 20px;
+    border: 1px solid gray;
+}
+thead {
+    color: pink;
+    font-size: larger;
+    font-style: italic;
+}
